@@ -1,2 +1,2 @@
-# ssrpanela
+# Python
 a
